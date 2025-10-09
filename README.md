@@ -1,3 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=AA77FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Cheng+Qian+%F0%9F%91%8B;Happy+to+see+you+here!;Let's+create+something+awesome!+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E3140&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&height=70&lines=Hi+there+%F0%9F%91%8B+welcome%EF%BC%81;we+talking+in+Code+ok%3F)](https://git.io/typing-svg)
 
 ![Jinxiuprospect's github activity graph](https://raw.githubusercontent.com/jinxiuprospect/jinxiuprospect/output/github-contribution-grid-snake.svg)
