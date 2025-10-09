@@ -10,5 +10,3 @@
 ![Jinxiuprospect's github activity graph](https://raw.githubusercontent.com/jinxiuprospect/jinxiuprospect/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer)
-
-![Jinxiuprospect's github activity graph](https://raw.githubusercontent.com/jinxiuprospect/jinxiuprospect/output/github-contribution-grid-snake.svg)
