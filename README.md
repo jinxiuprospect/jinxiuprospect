@@ -1,9 +1,8 @@
 ## Hi there 👋 welcome!
 
-![snake gif](https://github.com/jinxiuprospect/jinxiuprospect/blob/output/github-snake.svg)
-
-![snake dark](https://github.com/jinxiuprospect/jinxiuprospect/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-![snake light](https://github.com/jinxiuprospect/jinxiuprospect/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://jinxiuprospect.github.io/snk/github-snake.svg)
+![snake dark](https://jinxiuprospect.github.io/snk/github-snake-dark.svg#gh-dark-mode-only)
+![snake light](https://jinxiuprospect.github.io/snk/github-snake.svg#gh-light-mode-only)
 
 <!--
 **jinxiuprospect/jinxiuprospect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
