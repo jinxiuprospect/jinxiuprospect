@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome+to+my+Github+!&fontSize=35&fontColor=fff&animation=fadeIn)
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff770f&multiline=true&width=435&height=70&lines=Hi+there!+I'm+Cheng.+😊;Happy+to+see+you+here!" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinxiuprospect&show_icons=true&theme=transparent" height="166" />
