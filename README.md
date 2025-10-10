@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff770f&multiline=true&width=435&height=70&lines=Hi+there!+I'm+Cheng.+😊;Happy+to+see+you+here!)](https://git.io/typing-svg) 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinxiuprospect&show_icons=true&theme=transparent" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinxiuprospect&layout=compact&theme=transparent" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinxiuprospect&show_icons=true&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinxiuprospect&layout=compact&theme=transparent" height="170" />
 </p>
 
 ![Jinxiuprospect's github activity graph](https://raw.githubusercontent.com/jinxiuprospect/jinxiuprospect/output/github-contribution-grid-snake.svg)
