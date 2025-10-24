@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Cheng+Qian+👋;Welcome+to+my+GitHub!;Let's+code+and+grow+together+🚀)](https://git.io/typing-svg)
 
-![Cheng Qian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinxiuprospect&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinxiuprospect&layout=compact&theme=tokyonight)
+
+![Cheng Qian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinxiuprospect&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jinxiuprospect&theme=tokyonight&hide_border=true)
 
