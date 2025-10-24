@@ -6,7 +6,7 @@
 
 ![Cheng Qian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinxiuprospect&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jinxiuprospect&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jinxiuprospect&theme=tokyonight&hide_border=false)
 
 ![Jinxiuprospect's github activity graph](https://raw.githubusercontent.com/jinxiuprospect/jinxiuprospect/output/github-contribution-grid-snake.svg)
 
