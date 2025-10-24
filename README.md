@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome+to+my+GitHub+!&fontSize=35&fontColor=fff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFFF&width=600&lines=Keep+learning,+keep+building.;Stay+hungry,+stay+foolish.;Coding+my+dreams,+one+line+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFFF&width=600&lines=The+best+way+to+predict+the+future+is+to+create+it.)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinxiuprospect&layout=compact&theme=tokyonight)
 
