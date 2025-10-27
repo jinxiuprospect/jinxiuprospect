@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome+To+My+Space+!&fontSize=35&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome+👋&fontSize=35&fontColor=fff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=8A2BE2&width=800&lines=The+best+way+to+predict+the+future+is+to+build+it+in+code.;The+future+I+want+doesn't+exist+yet,+so+I'm+making+it+%3A%29)](https://git.io/typing-svg)
 
